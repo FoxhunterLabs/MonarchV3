@@ -1,0 +1,12 @@
+# Core runtime
+dataclasses; python_version<"3.7"
+
+# No external packages required for Monarch v3
+# Uses only Python standard library:
+# - argparse
+# - random
+# - time
+# - uuid
+# - abc
+# - collections
+# - typing
